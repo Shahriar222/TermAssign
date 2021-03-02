@@ -1,0 +1,7 @@
+C:\Users\udrt\Desktop\TermAssign\TermAssign\bin\Debug\TermAssign.exe.config
+C:\Users\udrt\Desktop\TermAssign\TermAssign\bin\Debug\TermAssign.exe
+C:\Users\udrt\Desktop\TermAssign\TermAssign\bin\Debug\TermAssign.pdb
+C:\Users\udrt\Desktop\TermAssign\TermAssign\obj\Debug\TermAssign.csprojAssemblyReference.cache
+C:\Users\udrt\Desktop\TermAssign\TermAssign\obj\Debug\TermAssign.csproj.CoreCompileInputs.cache
+C:\Users\udrt\Desktop\TermAssign\TermAssign\obj\Debug\TermAssign.exe
+C:\Users\udrt\Desktop\TermAssign\TermAssign\obj\Debug\TermAssign.pdb
